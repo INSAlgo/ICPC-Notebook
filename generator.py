@@ -4,7 +4,7 @@
 import os
 import subprocess
 import sys
-code_dir = "code"
+
 title = "INSA Lyon ACM-ICPC Team Notebook"
 
 def get_sections(path):
@@ -54,7 +54,7 @@ def get_tex(sections):
         tex += '\\section{%s}\n' % texify(section_name)
         for (filename, subsection_name) in subsections:
             tex += '\\subsection{%s}\n' % texify(subsection_name)
-            tex += '\\raggedbottom\\lstinputlisting[style=%s]{%s/%s}\n' % (get_style(filename), code_dir, filename)
+            tex += '\\raggedbottom\\lstinputlisting[style=%s]{%s}\n' % (get_style(filename), filename)
             tex += '\\hrulefill\n'
         tex += '\n'
     return tex
