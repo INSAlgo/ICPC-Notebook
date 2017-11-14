@@ -1,0 +1,22 @@
+[Dynamic Programming]
+dp/kadane.py	Max Sum Subarray (Kadane's Algorithm)
+dp/lcs.py	Longest Common Subsequence
+dp/levenshtein.py	Levenshtein Distance
+dp/lis	Longest Increasing Subsequence
+
+[Geometry]
+geometrey/convex_hull.py	Convex Hull
+
+[Graphs/Trees]
+graphs/dijkstra.py	Dijkstra's Algorithm
+graphs/mergefind_and_kruskal.py	Kruskal's Algorithm (including Merge-Find set)
+
+[Mathematics]
+math/gauss_jordan.py	Gauss-Jordan Elimination (Matrix inversion and linear system solving)
+math/miller_rabin.py	Miller-Rabin Primality Test
+math/segment_tree.py	Segment Tree
+math/sieve.py	Prime Number Sieve (generator)
+
+[Strings]
+strings/kmp.py	Knuth-Morris-Pratt Algorithm (fast pattern matching)
+strings/rabin_karp.py	Rabin-Karp Algorithm (multiple pattern matching)
