@@ -2,7 +2,7 @@
 dp/kadane.py	Max Sum Subarray (Kadane's Algorithm)
 dp/lcs.py	Longest Common Subsequence
 dp/levenshtein.py	Levenshtein Distance
-dp/lis	Longest Increasing Subsequence
+dp/lis.py	Longest Increasing Subsequence
 
 [Geometry]
 geometry/convex_hull.py	Convex Hull
