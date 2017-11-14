@@ -28,4 +28,4 @@
 *.app
 
 #Temporary LaTeX generated files
-*.tex
+contents_*.tex

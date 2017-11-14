@@ -66,7 +66,7 @@ if __name__ == "__main__":
     assert basepath in ('python','cpp')
     sections = get_sections(basepath)
     tex = get_tex(sections)
-    with open('notebook_'+basepath+'.tex', 'wb') as f:
+    with open('contents_'+basepath+'.tex', 'wb') as f:
         f.write(tex)
     latexmk_options = ["latexmk", "-pdf", "notebook_"+basepath+".tex"]
     subprocess.call(latexmk_options)
