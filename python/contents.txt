@@ -5,7 +5,7 @@ dp/levenshtein.py	Levenshtein Distance
 dp/lis	Longest Increasing Subsequence
 
 [Geometry]
-geometrey/convex_hull.py	Convex Hull
+geometry/convex_hull.py	Convex Hull
 
 [Graphs/Trees]
 graphs/dijkstra.py	Dijkstra's Algorithm
