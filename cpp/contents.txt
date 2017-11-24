@@ -1,0 +1,34 @@
+[Geometry]
+geometry/Convexhull.h	Convex Hull Algorithm
+geometry/Delaunay.h	Delaunay Triangulation
+geometry/Geometry.h	Various Geometry Functions
+
+[Graphs]
+graph/Dijkstra.h	Dijkstra's Algorithm
+graph/Dinic.h	Max Flow (Dinic's Algorithm)
+graph/MinCostMaxFlow.h	Max Flow (Edmonds-Karp Algorithm)
+graph/EulerianPath.h	Eulerian Path
+graph/Hopcroft-Karp.h	Hopcroft-Karp Algorithm
+graph/LCA.h	Lowest Common Ancestor
+graph/StronglyConnectedComponents.h	Strongly Connected Components
+graph/Union-Find.h	Union-Find Set
+
+[Tree]
+trees/Cartezian.h	Cartesian Tree
+trees/Segment.h	Segment Tree
+
+[Math]
+math/ExtendedEuclid.h	Extended Euclid's Algorithm
+math/FastSieve.h	Fast Prime Number Sieve
+math/FFT.h	Fast Fourier Transform
+math/GaussJordan.h	Gauss-Jordan Elimination
+math/GcdLcm.h	GCD and LCM
+math/ModularLinearEquationSolver.h	Modular Linear Equation Solver
+
+[Strings]
+string/AhoCorasick.h	Aho-Corasick Algorithm
+string/Kmp.h	Knuth-Morris-Pratt Algorithm
+string/SuffixArray.h	Suffix Array
+
+[Techniques]
+../techniques.txt	Various algorithm techniques

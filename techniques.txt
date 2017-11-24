@@ -1,9 +1,6 @@
 Recursion
 Divide and conquer
 	Finding interesting points in N log N
-Algorithm analysis
-	Master theorem
-	Amortized time complexity
 Greedy algorithm
 	Scheduling
 	Max contigous subvector sum

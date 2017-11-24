@@ -19,6 +19,7 @@ graphs/dijkstra.py	Dijkstra's Algorithm
 graphs/mergefind_and_kruskal.py	Kruskal's Algorithm (including Merge-Find set)
 graphs/bellman_ford.py	Bellman-Ford Algorithm
 graphs/floyd_warshall.py	Floyd-Warshall Algorithm
+graphs/maxflow.py	Max Flow (Ford-Fulkerson Algorithm)
 
 [Mathematics]
 math/gauss_jordan.py	Gauss-Jordan Elimination (Matrix inversion and linear system solving)
@@ -30,3 +31,6 @@ math/gcd_totient.py	GCD and Euler's Totient Function
 [Strings]
 strings/kmp.py	Knuth-Morris-Pratt Algorithm (fast pattern matching)
 strings/rabin_karp.py	Rabin-Karp Algorithm (multiple pattern matching)
+
+[Techniques]
+../techniques.txt	Various algorithm techniques
