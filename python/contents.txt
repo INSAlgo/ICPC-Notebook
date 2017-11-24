@@ -6,7 +6,7 @@ dp/lis.py	Longest Increasing Subsequence
 
 [Geometry]
 geometry/convex_hull.py	Convex Hull
-geometry/cpp_geometry_misc.cc Misc Geometry Functions (C++)
+geometry/cpp_geometry_misc.cc	Misc Geometry Functions (C++)
 
 [Graphs/Trees]
 graphs/graph_structure_bfs_dfs.py	Graph structure example for our DFS and BFS algorithms
