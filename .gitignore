@@ -29,3 +29,9 @@
 
 #Temporary LaTeX generated files
 contents_*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+notebook_*.log
+*.toc
+*.out
